@@ -50,7 +50,3 @@ Comprehensive testing was conducted to ensure robust functionality. Test reports
 2. Open the project in your preferred IDE.
 3. Run the `Game` class to start the simulator.
 
----
-
-## Contact
-If you have any questions or suggestions, feel free to reach out to the contributors via GitHub or the repository's issue tracker.
